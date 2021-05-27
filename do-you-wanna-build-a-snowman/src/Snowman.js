@@ -1,5 +1,5 @@
 class Snowman {
-  constructor (snowman){
+  constructor(snowman) {
     this.carrots = snowman.carrots,
     this.coal = snowman.coal,
     this.buttons = snowman.buttons,
