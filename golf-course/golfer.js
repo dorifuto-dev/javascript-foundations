@@ -1,9 +1,9 @@
 class Golfer {
   constructor(golfer) {
-    this.name = golfer.name,
-    this.handicap = golfer.handicap,
-    this.frustration = 0,
-    this.confidence = 0
+    this.name = golfer.name;
+    this.handicap = golfer.handicap;
+    this.frustration = 0;
+    this.confidence = 0;
   }
 
   calculateAvg(par) {
