@@ -1,9 +1,9 @@
 class Roadrace {
   constructor(venue) {
-    this.name = venue.title,
-    this.location = venue.city,
-    this.distance = 0,
-    this.participants = []
+    this.name = venue.title;
+    this.location = venue.city;
+    this.distance = 0;
+    this.participants = [];
   }
 
   setDistance(distance) {
